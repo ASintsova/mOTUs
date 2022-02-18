@@ -2,3 +2,6 @@
 *.DS_Store
 db_mOTU/
 test/
+
+# Sphinx documentation
+docs/_build/
